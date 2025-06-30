@@ -63,8 +63,9 @@ Esto facilitó la obtención rápida de información puntual sin necesidad de re
 
 - `Volumen-pacientes-final.xlsm` – Base estructurada con reportes y buscador
 - `Volumen-pacientes-original.xlsx` – Versión desordenada de la hoja original
-- `capturas/` – Imágenes que muestran el antes y el después
-
+- `Volumen-pacientes-final.PNG` – Imágenes que muestran el antes y el después
+- `Volumen-pacientes-final2.PNG` – Imágenes que muestran el antes y el después
+- `Volumen-pacientes-original.PNG` – Imágenes que muestran el antes y el después
 ---
 
 ## 👤 Autor
