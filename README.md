@@ -61,8 +61,8 @@ Esto facilitó la obtención rápida de información puntual sin necesidad de re
 
 ## 📂 Archivos incluidos
 
-- `base_limpia.xlsx` – Base estructurada con reportes y buscador
-- `base_original.xlsx` *(opcional)* – Versión desordenada de la hoja original (sin datos sensibles)
+- `Volumen-pacientes-final.xlsm` – Base estructurada con reportes y buscador
+- `Volumen-pacientes-original.xlsx` *(opcional)* – Versión desordenada de la hoja original (sin datos sensibles)
 - `capturas/` – Imágenes que muestran el antes y el después
 
 ---
