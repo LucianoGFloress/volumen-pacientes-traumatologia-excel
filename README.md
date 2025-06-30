@@ -62,15 +62,15 @@ Esto facilitó la obtención rápida de información puntual sin necesidad de re
 ## 📂 Archivos incluidos
 
 - `Volumen-pacientes-final.xlsm` – Base estructurada con reportes y buscador
-- `Volumen-pacientes-original.xlsx` *(opcional)* – Versión desordenada de la hoja original (sin datos sensibles)
+- `Volumen-pacientes-original.xlsx` – Versión desordenada de la hoja original
 - `capturas/` – Imágenes que muestran el antes y el después
 
 ---
 
 ## 👤 Autor
 
-Luciano Flores – Analista de Datos  
-[GitHub](https://github.com/tuusuario) | [LinkedIn](https://linkedin.com/in/tuusuario)  
+Luciano Flores – Data Analytics 
+[LinkedIn](https://www.linkedin.com/in/luciano-flores-a578a6347/)  
 🇦🇷 Argentina
 
 ---
